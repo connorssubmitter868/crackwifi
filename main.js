@@ -11,7 +11,7 @@ function createWindow() {
       nodeIntegration: false,
       contextIsolation: true,
     },
-    title: "CRACKWIFI - DEVELOPER BY TONY THANG",
+    title: "CRACKWIFI - DEVELOPED BY TONY THANG",
     backgroundColor: '#000000',
   });
 
@@ -58,7 +58,7 @@ ipcMain.handle('scan-vifi', async () => {
   });
 });
 
-// Xử lý mở link Rickroll
+
 ipcMain.on('open-rick-roll', () => {
     shell.openExternal('https://streamable.com/udjjp9');
 });

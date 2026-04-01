@@ -1,4 +1,4 @@
-# CRACKWIFI - DEVELOPER BY TONY THANG 🚀
+# CRACKWIFI - DEVELOPED BY TONY THANG 🚀
 
 ![Software Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)
