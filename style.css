@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #000;
+    color: #00ff00;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 20px;
+    border: 2px solid #00ff00;
+}
+
+header {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 10px;
+}
+
+#home-btn {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    background: transparent;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#home-btn:hover {
+    background: #00ff00;
+    color: #000;
+}
+
+header h1 {
+    font-size: 2rem;
+    text-shadow: 0 0 10px #00ff00;
+}
+
+main {
+    display: flex;
+    flex: 1;
+    gap: 20px;
+    height: 60%;
+}
+
+.left-panel {
+    flex: 1;
+    border-right: 1px solid #00ff00;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.right-panel {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+#scan-btn {
+    background: transparent;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 15px;
+    transition: all 0.3s;
+}
+
+#scan-btn:hover {
+    background: #00ff00;
+    color: #000;
+    box-shadow: 0 0 15px #00ff00;
+}
+
+#wifi-list {
+    list-style: none;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.wifi-item {
+    padding: 10px;
+    border: 1px solid #003300;
+    margin-bottom: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.wifi-item:hover {
+    border-color: #00ff00;
+    background: #001100;
+}
+
+#terminal-log {
+    background: #050505;
+    border: 1px solid #004400;
+    flex: 1;
+    padding: 10px;
+    font-size: 0.9rem;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column-reverse; /* Scroll to bottom natively */
+}
+
+.line {
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
+
+footer {
+    height: 100px;
+    margin-top: 20px;
+    border-top: 1px solid #00ff00;
+    padding-top: 10px;
+}
+
+.progress-container {
+    width: 100%;
+    height: 20px;
+    border: 1px solid #00ff00;
+    margin-bottom: 15px;
+}
+
+.progress-bar {
+    width: 0%;
+    height: 100%;
+    background: #00ff00;
+    transition: width 0.1s linear;
+}
+
+#password-display {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none !important;
+}
+
+#rickroll-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    text-align: center;
+}
+
+/* Animations */
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.typing::after {
+    content: '_';
+    animation: blink 0.8s infinite;
+}

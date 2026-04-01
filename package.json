@@ -1,0 +1,24 @@
+{
+  "name": "wifi-hacker-pro",
+  "version": "1.0.0",
+  "description": "WiFi Hacker Simulator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.tonythang.crackwifi",
+    "productName": "CRACKWIFI - TONY THANG",
+    "win": {
+      "target": "nsis"
+    },
+    "directories": {
+      "output": "dist"
+    }
+  },
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^24.13.3"
+  }
+}

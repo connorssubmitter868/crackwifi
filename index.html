@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRACKWIFI - DEVELOPER BY TONY THANG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button id="home-btn">TRANG CHỦ [HOME]</button>
+            <h1>CRACKWIFI - DEVELOPER BY TONY THANG</h1>
+            <p id="status">Trạng thái: Sẵn sàng quét...</p>
+        </header>
+
+        <main>
+            <div class="left-panel">
+                <h3>Danh Sách WiFi Phát Hiện</h3>
+                <button id="scan-btn">QUÉT WIFI XUNG QUANH</button>
+                <ul id="wifi-list">
+                    <!-- WiFi items will be added here -->
+                </ul>
+            </div>
+
+            <div class="right-panel">
+                <h3>Hệ Thống Log Terminal</h3>
+                <div id="terminal-log">
+                    <div class="line">Hệ thống đã khởi tạo. Chờ lệnh...</div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div id="password-display"></div>
+        </footer>
+    </div>
+
+    <!-- Overlay Rickroll (Ẩn ban đầu) -->
+    <div id="rickroll-overlay" class="hidden">
+        <h2 style="font-size: 4rem; color: #ff0000; text-shadow: 0 0 20px #ff0000;">1/4 VUI VẺ!</h2>
+        <p style="font-size: 1.5rem;">CÁ CÁ CÁ... BẠN ĐÃ BỊ TONY THANG LỪA!</p>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>
