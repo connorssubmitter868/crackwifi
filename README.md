@@ -56,6 +56,23 @@ npm run build
 
 ---
 
+
+⚠️ Disclaimer (Tuyên Bố Miễn Trừ Trách Nhiệm)
+
+CRACKWIFI được phát triển chỉ nhằm mục đích giải trí và mô phỏng ngày cá tháng tư. Ứng dụng KHÔNG thực hiện bất kỳ hành vi bẻ khóa WiFi thực sự nào.
+
+🚫 Không hack được WiFi thật (đừng mơ 😌)
+🎭 Tất cả hiệu ứng “hacker”, “brute-force”, “bypass WPA2/WPA3” đều là giả lập UI/UX
+🧪 Dùng để học UI, Electron, hoặc troll bạn bè là chính
+
+👉 Tớ không chịu trách nhiệm nếu bạn:
+
+Dùng app để “diễn sâu” đi lừa người khác 😆
+Hoặc bị ai đó tưởng bạn là hacker thật rồi… mời lên phường uống trà 🍵
+
+💡 Tóm lại:
+App này là kiểu “hack cho vui, nhìn cho ngầu, chứ không hack được gì đâu bro”.
+
 ## 👨‍💻 Tác Giả
 
 **TONY THANG**
